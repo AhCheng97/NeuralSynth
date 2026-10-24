@@ -4,8 +4,10 @@
 
 ## 下载与运行
 
-在 [Releases](https://github.com/AhCheng97/NeuralSynth/releases/tag/v1.1.1) 下载 Windows 10/11 64 位便携版，解压后运行 `神经合成器/NeuralSynth.exe`。模型及对应 `.brightdir.npy` 文件必须保持在同一目录。
+在 [Releases](https://github.com/AhCheng97/NeuralSynth/releases/tag/v1.2) 下载 Windows 10/11 64 位便携版，解压后运行 `神经合成器/NeuralSynth.exe`。
 
-当前版本：**v1.1.1**。
+## v1.2 声道与立体声声像
 
-附件 SHA256：`a24db30829279dac4ac41451d8dd4f3ea32ddefae10b4da0642f87789cabdb40`
+每轨支持双单声道 L=R、仅左、仅右和立体声声像 PAN。PAN 模式下可调整左右声像，声道切换使用平滑增益。
+
+附件 SHA256：`1ac95e80c2789e57401ff7c7de72b78eb7d04a5624e33c0791d999427eb5d669`
